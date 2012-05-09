@@ -1,0 +1,144 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>aTag</PackageName>
+      <Author>siv</Author>
+      <Version>2</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/core/sitecore/system/Field types/Developer Types/Tag/{F16C01AA-200D-4FCE-BD1B-06C49580F5D5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/TestItem/{BD557971-6EC8-4EB6-B573-AB898CD7F087}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/{690438AC-157D-4C3D-B67F-40CCF6CF81FC}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Labels/{F8646869-C295-42C2-BBC6-7CA75245E0DC}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Labels/AddNew/{051AF63B-C8F9-4D43-BC94-F92588960308}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Labels/EnterTag/{1F0C533D-0F1B-41D0-BC74-5E8B533DBBF7}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Labels/EnterText/{91128344-670B-4E1D-91D5-29B3B3886397}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/{166B2794-BB0F-4E6A-B371-F85C3CAA4464}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/{0C773078-FCDD-4DAF-98F7-265AA2183C07}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Aaaa/{0ED8FE5A-CFD1-47A1-992F-9166CD2CFC2F}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Ballerup/{CCCF7E53-939C-453E-8648-9EA0A3FFBD9F}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Bismarck/{C0AC6546-C974-448F-883F-B36B00083F53}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Book/{A6BAA620-7E69-4897-AFBE-0F37000443B7}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Dad/{AB58CA52-1907-433A-8635-02C04FF80608}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Day/{706350E5-6F7D-4EFD-9692-94F8991F138B}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Days/{6F1D9A5D-EDE5-4EB5-88BD-EB1EF9ABD8FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Dk text/{960DFFC9-0CC6-4BE9-B5AA-86F806643BBF}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Food/{624BB12A-BE41-4814-92F5-27B872FADAE0}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Google/{BFFEB5A1-B4D7-4004-81CB-1CF7119039DF}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Hei/{C9FC0327-4711-407C-BC1B-F5E5238FB7C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Hola/{EAA10AE1-FBC9-4F67-BAE0-D9DA2991B273}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Holiday/{26C145B8-13C4-45F2-9E46-3DB6B2EE4502}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Jack/{CD27CBEE-4ED3-4BC6-AD70-2756848743C8}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Kool/{09F8E04A-6C5B-4FE6-9B92-3DBECF3E04CF}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Lalalala/{2D7CECC0-3CA7-4AAD-BF68-6A8CD4273AD0}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Large/{14436F28-DB2B-44F8-BEA2-FDA01151D036}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Last/{CEB165DE-30A1-4040-8CF7-A76BA903B493}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Night/{4467867C-E9FC-45AD-84DE-604A5FBD3BF8}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Plane/{786A2FAA-C711-4AC2-874E-7A261C14D1F9}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Start/{BFB91EF5-42A0-4102-BF0D-2704D42407F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Storie/{016C8633-C186-4182-8B01-C24C54F2A806}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Testing/{8B4D614E-CE70-4DAC-8774-21EA9417BFC6}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Tests/{DD7682DE-5329-4314-ABDC-7A7AA41D13E1}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Thistagisnotused/{D4188A52-3EA8-4CEF-8CFF-122210BA9CA9}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default/Tools/{80CC2195-AD88-455E-ABD6-4B42A8692872}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/{00866F4B-62CB-4E38-8F67-8FD188CFA580}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Dat/{1DE1E6AD-6A1B-4C04-AB35-A0DA060FAF17}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Day/{BDB93CF3-D45F-481F-BBBC-2B0E82688F0D}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Default1/{2EA971C1-65B5-4CBB-9A33-67C053371966}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Dt1/{4BAECDE4-B42B-4D3A-853F-777102A82568}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Holiday/{F3D99EBE-23DD-4DD9-A23D-E4BBB27AA9C9}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/T/{064539E1-8966-4BDD-9CCD-96E09B6D62BA}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Tes/{B6277F52-C97D-4911-8D4A-D8216F4BF2ED}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Test_tags/{3CBA350F-2733-4FFC-9C7E-028837FB4FB0}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Testing/{251CE7A4-2812-481E-B086-8891673FAEB6}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/Default_test/Testtag/{FF8B0993-88F3-4BB9-B18A-DA44184EE01C}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/{78B05E31-CF27-425E-84C7-0565481DF0EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/A/{BBD237A9-FF16-4233-91B9-6DAACD31DBB8}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/B/{B40BFA35-1D58-45A5-BB8E-7198FDF9B6A9}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Bear/{2A048FDC-A13A-4854-B436-48A51E1D8F71}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Boy/{736F3DB0-EF51-4A23-8596-3BDFE24C253D}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Day/{14034588-DCB0-4867-8C4F-99DBA4018C49}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Days/{B7E9E915-C9B6-4001-9511-2FC09D41B031}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/G/{A904304E-6574-499D-975B-5A8790C7EF67}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Girl/{15C789D7-2E08-4CF4-813D-4E2CB1A02D93}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Good/{CB4B0CC2-8A7F-418D-BED5-66ABF45B18F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Grate/{EF79025C-204D-4D7E-B201-416BB6747097}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Gray/{49DFB6A4-D260-4133-BD05-1CC372E3D751}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Is/{BA6CDF06-437D-4250-A2A9-D3C85007CB30}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/K/{55C98F81-A9CA-451F-A80D-0F999857D91A}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/L/{C859CF04-896C-4A8B-825C-2F3707BE4CBD}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/O/{5F9221AB-D320-4555-8D2F-89E1AA490428}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/P/{200975B6-B0B8-48C7-9418-E4EC387090C6}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/R/{2990F813-C531-49AC-8359-94A02786BFAD}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Ready/{9A2D4FAD-0E35-4E23-91BD-E4D1E4D30587}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/So/{FC8A6EAB-375C-4793-A79B-64FC829AA1BA}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Stop/{03F7D5D0-00D2-46B8-A424-091B052A7200}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/T/{DF0B845C-A3A2-4427-ACC3-3D8DDC135790}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Tom/{BDD4948F-DB3B-4BB6-846A-B572B0A09781}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Too/{F5421585-F252-4E9D-B815-82355940819B}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/U/{14514CE9-6536-4BD7-A445-D66D19CE74AA}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/aTag/Tags/default_test2/Y/{52556F8B-EAE7-4AB9-B7EF-144435FB755E}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Tag/{10BDB496-F03B-466A-A6AF-5E0E39AD3B89}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Tag/data/{94F53CB9-3540-4FC7-82A4-F35280729D83}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Tag/data/Value/{840EA7B7-DA50-4302-8A5D-8D4BEF404F05}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/testTemplate/{70DB958F-DD07-4E8F-A4A9-78C5076969F1}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/testTemplate/data/{42EDF3E9-C052-4D28-9879-B6A4653EA497}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/testTemplate/data/defalutTags/{70D86181-F8ED-456E-A421-D72B94DBDC78}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/testTemplate/data/testTags/{DA41DD8A-9824-45F9-B0D3-B0DA8C810F9C}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/User Defined/aTag/{043A2A0B-7D87-4A2B-A8DC-339C899E9530}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/User Defined/aTag/Label/{D7E413DD-5E33-4737-9124-2EE7913A90D3}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/User Defined/aTag/Label/Data/{67B861B9-77DC-4097-BDFF-47004D828E50}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/User Defined/aTag/Label/Data/Text/{F3AD56CF-96ED-4B10-9AD3-8525A2F836E6}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/bin/Addition.Context.Types.Tag.dll</x-item>
+        <x-item>/layouts/ShowTags.aspx</x-item>
+        <x-item>/sitecore modules/Shell/addition/tags/scripts.js</x-item>
+        <x-item>/sitecore modules/Shell/addition/tags/styles.css</x-item>
+        <x-item>/sitecore modules/Shell/addition/tags/</x-item>
+        <x-item>/sitecore modules/Shell/addition/tags/scripts.js</x-item>
+        <x-item>/sitecore modules/Shell/addition/tags/styles.css</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

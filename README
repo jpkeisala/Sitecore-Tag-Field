@@ -1,0 +1,6 @@
+Sitecore Tag –field is a custom field type for Sitecore data templates. A textbox that allows you to use multiple tags on a Data Template - This is perfect if you need to taxonomy data.  You can specify as many Tags to template and set data source to them on the Data Template. 
+
+If you are familiar with Wordpress Posts or Umbraco Tag field. This is the same thing but on Sitecore. 
+ 
+When Tag –field is selected to a template editor can then use textbox to write/select Tags to the Item. Every time new tag is created it creates new item with given tag label in Sitecore and in the future when editor starts to write tag auto-suggestion will lists available tags matching to the string that is been written.
+Tags works also on Page Editor
