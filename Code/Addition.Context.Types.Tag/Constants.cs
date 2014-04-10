@@ -11,5 +11,6 @@ namespace Addition.Context.Types.Tag
         public static string AddNewPath = "/sitecore/system/modules/atag/labels/addnew";
         public static string OnBlurPath = "/sitecore/system/modules/atag/labels/entertext";
         public static string EnterNewPath = "/sitecore/system/modules/atag/labels/entertag";
+        //comment
     }
 }
